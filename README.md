@@ -30,5 +30,5 @@ The trained machine learning model was deployed to a web application using Flask
 - Viraad Baig
 
 # Acknowledgements
-Kaggle (https://www.kaggle.com/)
-PakWheels (https://www.pakwheels.com/)
+- Kaggle (https://www.kaggle.com/)
+- PakWheels (https://www.pakwheels.com/)
